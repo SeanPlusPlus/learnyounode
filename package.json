@@ -1,0 +1,11 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:SeanPlusPlus/learnyounode.git",
+  "author": "Sean <seanmichaelstephenson@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.18.1"
+  }
+}
